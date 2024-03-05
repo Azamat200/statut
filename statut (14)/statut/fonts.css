@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url('fonts/Roboto-Regular/Roboto-Regular.eot');
+    src: url('fonts/Roboto-Regular/Roboto-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Roboto-Regular/Roboto-Regular.woff2') format('woff2'),
+        url('fonts/Roboto-Regular/Roboto-Regular.woff') format('woff'),
+        url('fonts/Roboto-Regular/Roboto-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Gosha';
+    src: url('fonts/GoshaSans-Regular/GoshaSans-Regular.eot');
+    src: url('fonts/GoshaSans-Regular/GoshaSans-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/GoshaSans-Regular/GoshaSans-Regular.woff2') format('woff2'),
+        url('fonts/GoshaSans-Regular/GoshaSans-Regular.woff') format('woff'),
+        url('fonts/GoshaSans-Regular/GoshaSans-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
